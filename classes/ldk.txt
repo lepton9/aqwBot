@@ -1,0 +1,12 @@
+name: Legion DoomKnight
+
+# Skills (@key: cooldown in seconds)
+@1: 2
+@2: 4
+@3: 5
+@4: 6
+@5: 16
+
+# Combos (:key combo)
+:c 2>4>2>5>2>4>2>3
+:v 2>4>2>5
